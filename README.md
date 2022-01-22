@@ -1,10 +1,15 @@
-# Relational Rails
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
   <p>
     Relational Rails focuses on a one-to-many relationship within two different video games, World of Warcraft and Legend of Zelda. Users CRUD resources for world bosses and their loot on the World of Warcraft page, and regions and locations on the Zelda page. 
   </p>
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- DEPLOYMENT -->
+### Deployment
+
+Visit [Herkou](https://https://polar-inlet-13001.herokuapp.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -19,7 +24,7 @@
 <p>
   <img src="https://img.shields.io/badge/Ruby-CC0000.svg?&style=flaste&logo=ruby&logoColor=white" />
   <img src="https://img.shields.io/badge/ActiveRecord-CC0000.svg?&style=flaste&logo=rubyonrails&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?message=css3&logo=css3&labelColor=5c5c5c&color=1182c3&logoColor=white" />
 </p>
 
 #### Tools
@@ -59,13 +64,6 @@
 ## Database Schema Designer
 ![image](https://user-images.githubusercontent.com/78242081/131754393-a6f0335d-694c-467c-be6e-f234cc185658.png)
 
-
-<!-- DEPLOYMENT -->
-### Deployment
-
-Visit [Herkou](https://https://polar-inlet-13001.herokuapp.com)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Learning Goals
 
