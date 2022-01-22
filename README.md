@@ -24,7 +24,7 @@ Visit [Herkou](https://https://polar-inlet-13001.herokuapp.com)
 <p>
   <img src="https://img.shields.io/badge/Ruby-CC0000.svg?&style=flaste&logo=ruby&logoColor=white" />
   <img src="https://img.shields.io/badge/ActiveRecord-CC0000.svg?&style=flaste&logo=rubyonrails&logoColor=white" />
-  <img src="https://img.shields.io/badge/v1?message=css3&logo=css3&labelColor=5c5c5c&color=1182c3&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?message=css3&logo=css3&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic" />
 </p>
 
 #### Tools
